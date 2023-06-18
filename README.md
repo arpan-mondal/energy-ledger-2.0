@@ -1,8 +1,8 @@
-# Tokenized-Carbon Credit Marketplace (on Polygon/Matic)
+# Energy-Ledger-2.0-Tokenized-Carbon Credit Marketplace (on Polygon)
 
 ***
 
-## 【Introduction of the Tokenized-Carbon Credit Marketplace (on Polygon/Matic)】
+## 【Introduction of the Tokenized-Carbon Credit Marketplace (on Polygon)】
 - This is a smart contract and dApp that is the Tokenized-Carbon Credit Marketplace which allow to be able to claim, audit, buy/sell carbon credits in a single platform. (for incentivize and accelerating the CO2 emission reduction)
   - By that whole process is executed on this platform, it is able to keep `transparency` and `traceability` .
   - The `Carbon Credit Tokens (CCTs)` are used for representing amount of carbon credits. (The Carbon Credit Tokens is created as ERC20 token)
@@ -36,7 +36,7 @@
 
 
 ## 【Demo Video】
-- https://youtu.be/LiMHJL8H2oA
+- will be updated soon!!!!
 
 
 ***
